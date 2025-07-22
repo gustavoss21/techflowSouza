@@ -1,0 +1,479 @@
+# Copyright (C) 2025 POSIMYTH
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: UiChemy - Figma to WordPress (Elementor, Gutenberg, Bricks) 3.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/uichemy\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-06-17T09:12:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: uichemy\n"
+
+#. Plugin Name of the plugin
+#: uichemy.php
+msgid "UiChemy - Figma to WordPress (Elementor, Gutenberg, Bricks)"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: uichemy.php
+msgid "https://uichemy.com"
+msgstr ""
+
+#. Description of the plugin
+#: uichemy.php
+msgid "Convert Figma Design to 100% Editable WordPress websites in Elementor Website Builder and Gutenberg aka WordPress Block Editor."
+msgstr ""
+
+#. Author of the plugin
+#: uichemy.php
+msgid "POSIMYTH"
+msgstr ""
+
+#. Author URI of the plugin
+#: uichemy.php
+msgid "https://posimyth.com"
+msgstr ""
+
+#: includes/admin/class-uich-api.php:337
+msgid "Reset Successful"
+msgstr ""
+
+#: includes/admin/class-uich-api.php:690
+#: includes/admin/class-uich-api.php:770
+#: includes/admin/class-uich-api.php:1167
+msgid "No JSON data found."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:711
+msgid "Required Elementor Plugin Please Install and Active."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:857
+#: includes/admin/class-uich-api.php:1035
+#: includes/admin/class-uich-api.php:1238
+msgid "Post ID not provided for Updating."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:866
+#: includes/admin/class-uich-api.php:1044
+#: includes/admin/class-uich-api.php:1247
+msgid "Post does not exist with given ID & Type."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:911
+msgid "This post doesn't have Elementor data."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:971
+msgid "No data Provided for Importing."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:1308
+msgid "Could not update the data."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:1328
+msgid "All Good."
+msgstr ""
+
+#: includes/admin/class-uich-api.php:1378
+msgid "Invalid Security Token"
+msgstr ""
+
+#: includes/admin/class-uich-elementor.php:97
+msgid "UiChemy : Custom CSS"
+msgstr ""
+
+#: includes/admin/class-uich-elementor.php:104
+msgid "CSS Code"
+msgstr ""
+
+#: includes/admin/class-uich-enqueue.php:250
+msgid "Insufficient permissions."
+msgstr ""
+
+#: includes/admin/class-uich-enqueue.php:260
+msgid "Bricks theme has been activated."
+msgstr ""
+
+#: includes/admin/class-uich-enqueue.php:262
+msgid "Bricks theme is not installed."
+msgstr ""
+
+#: includes/admin/class-uich-enqueue.php:302
+msgid "Failed to retrieve plugin information."
+msgstr ""
+
+#: includes/admin/class-uich-enqueue.php:400
+msgid "UiChemy"
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:107
+msgid "Deactivation Reason"
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:116
+msgid "Just Debugging."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:120
+msgid "Plugin Issue."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:124
+msgid "Slow Performance."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:128
+msgid "Switched to Alternative."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:132
+msgid "No Longer Needed."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:136
+msgid "Compatibility Issue."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:140
+msgid "Missing Feature."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:144
+msgid "Other Reasons."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:160
+msgid "Please share the reason"
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:162
+msgid "If you require any help, please"
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:163
+msgid "Create A Ticket."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:163
+msgid "We reply within 24 working hours."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:164
+msgid " we reply within 24 working hours.Looking for instant solutions? - "
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:164
+msgid "Read our Documentation"
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:170
+msgid "I agree to be contacted via email for support with this plugin."
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:179
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: includes/notices/class-uich-deactivate-feedback.php:182
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: includes/notices/class-uich-plugin-page.php:86
+msgid "Settings"
+msgstr ""
+
+#: includes/notices/class-uich-plugin-page.php:87
+msgid "Need Help?"
+msgstr ""
+
+#: includes/notices/class-uich-plugin-page.php:110
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/notices/class-uich-plugin-page.php:111
+msgid "Join Community"
+msgstr ""
+
+#: includes/notices/class-uich-plugin-page.php:112
+#: dashboard/build/index.js:1
+msgid "What's New?"
+msgstr ""
+
+#: includes/notices/class-uich-plugin-page.php:113
+msgid "Request Feature"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Select Page Builder"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install Figma Plugin"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Required Theme"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Complete"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Required Plugins"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Nexter Blocks"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Required"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Activated"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Activate"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install & Activate"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Spectra"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Coming Soon"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Kadence Blocks"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Elementor"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Gutenberg"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Bricks Builder"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Continue"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install UiChemy Figma Plugin"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Get UiChemy Key"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install UiChemy Figma to"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Convertor"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install & Run"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "The Figma Plugin"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Connect your UiChemy"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Key & Click Connect"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Back"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Confirm & Proceed"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Elementor Pro"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Optional"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Installation Required"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "The Plus Addons for Elementor"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Setup Up Done Successfully."
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Your Figma to WordPress Convertor is Ready to Import Design"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Contribute to improving our plugin by sharing non-sensitive details."
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "I just installed UiChemy - Figma to WordPress Convertor Plugin. This connects my WordPress sites with Figma and easily import converted designs from Figma. Excited to use it."
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Post on"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Start Importing Design"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Get Started with UiChemy - Figma to"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "WordPress Convertor"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Skip"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Get Started"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Version "
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Welcome,"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Convert your Figma Designs to 100% Editable Elementor Templates in Seconds."
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Site URL"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Security Token"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Regenerate Token"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Import as User"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Bricks"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Figma to Elementor | UiChemy"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Install in Figma"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Recommended Settings"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Flexbox Container"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Enable Unfiltered File Uploads"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Optional Plugins"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "The Plus Addons for Elementor (Free)"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Figma to Gutenberg | UiChemy"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Figma to Bricks | UiChemy"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Bricks Page Builder"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "SVG Uploads"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "How Does It Work?"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Watch Video"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "For any further help, reach us at Helpdesk or connect via Live Chat on website."
+msgstr ""
+
+#: dashboard/build/index.js:1
+msgid "Our Products"
+msgstr ""
